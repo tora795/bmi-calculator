@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: floralwhite;
+}
+
+main{
+   
+    padding: 20px;
+    margin:20px ;
+    border: 1px solid floralwhite;
+    border-radius: 20px;
+    box-shadow: 0 0 20px white;
+    background-color:rgba(128, 128, 128, 0.445);
+
+}
+label{
+    margin-bottom: 8px;
+    display: block;
+}
+
+.input-group{
+    margin-bottom: 10px;
+}
+
+input{
+    border-radius:5px ;
+    padding: 5px;
+    border: none;
+    background-color: rgba(240, 248, 255, 0.623);
+    color: white;
+}
